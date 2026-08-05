@@ -12,9 +12,9 @@
 ---
 
 ## 🚀 Live Demo
-Access the live deployment on Streamlit Community Cloud: **[Insert Your Public URL Here]**
+Access the live deployment on Streamlit Community Cloud: **https://ore-nexus.streamlit.app/**
 
-*(Note: Replace the link above once you deploy the application via Streamlit Cloud)*
+
 
 ---
 
