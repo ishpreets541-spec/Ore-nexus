@@ -2,6 +2,7 @@
 **Enterprise-Grade Geospatial Machine Learning for Economic Geology & Exploration Costing**
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-336791?logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-FF4B4B?logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Data-3F4F75?logo=plotly&logoColor=white)
@@ -52,7 +53,12 @@ The financial risk engine calculates the total expedition risk based on model ac
 
 To run Ore-Nexus on your local machine for development or spatial layer modification:
 
-**1. Clone the repository**
-```bash
-git clone [https://github.com/your-username/ore-nexus.git](https://github.com/your-username/ore-nexus.git)
-cd ore-nexus
+---
+### 👩‍💻 Author
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+---
